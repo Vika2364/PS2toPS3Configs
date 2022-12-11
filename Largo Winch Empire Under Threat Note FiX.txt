@@ -1,0 +1,12 @@
+3D 00 00 00 57 44 00 00 12 00 00 00 0E 00 00 00
+00 00 00 04 00 00 00 00 02 00 04 00 00 00 00 00
+AE B3 4E 5D 20 02 00 00 46 02 00 00 03 00 06 00
+1C 6E 11 10 F8 6F 11 10 BC 70 11 10 88 74 11 10
+C4 74 11 10 58 75 11 10
+
+Tested the very first scene on SLES-50841. 
+May have additional problems later. 
+
+Freeze after the first ingame custscene (just before the gameplay) - FiXed!
+
+By mrjaredbeta !
