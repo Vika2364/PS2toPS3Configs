@@ -12,7 +12,4 @@ Fixes all flickering and missing graphics...an issue plaguing PS3 for a looong t
 
 All credits and many thanks to him!
 
-By mrjaredbeta !
-
-//Skip Door Transition
-patch=1,EE,20133D54,extended,00000000
+By mrjaredbeta!
