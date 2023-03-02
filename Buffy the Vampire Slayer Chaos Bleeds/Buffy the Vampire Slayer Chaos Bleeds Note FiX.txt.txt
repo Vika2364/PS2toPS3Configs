@@ -1,0 +1,15 @@
+US
+3D 00 00 00 57 44 00 00 0A 00 00 00 01 00 00 00 
+48 AC 26 00 00 12 06 3C 00 00 06 3C
+
+EU
+3D 00 00 00 57 44 00 00 0A 00 00 00 01 00 00 00 
+E8 B6 26 00 00 12 06 3C 00 00 06 3C
+
+From kozarovv: Replaces bad VIF1 CMD (0x12) to VIF1 NOP (0x00).
+
+Fixes all flickering and missing graphics...an issue plaguing PS3 for a looong time.
+
+All credits and many thanks to him!
+
+By mrjaredbeta !
