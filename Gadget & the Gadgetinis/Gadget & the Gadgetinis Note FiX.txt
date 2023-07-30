@@ -1,0 +1,9 @@
+3D 00 00 00 57 44 00 00 0C 00 00 00 00 04 01 00
+0A 00 00 00 03 00 00 00 14 0A 14 00 0B 00 60 10
+0B 00 00 10 D4 0A 14 00 0B 00 60 10 0B 00 00 10
+5C 0F 14 00 0C 00 40 10 0C 00 00 10 15 00 00 00
+04 00 00 00
+
+Updated config to fix additional black screens.
+
+By mrjaredbeta!
