@@ -1,0 +1,14 @@
+Pro Evolution Soccer 2012 (SLUS-21948)
+PES 2012: Pro Evolution Soccer (SLES-55656, SLES-55657, SLES-55658)
+World Soccer Winning Eleven 2012 (SLPM-55294, SLKA-25480)
+
+3D 00 00 00 57 44 00 00 21 00 00 00 00 00 00 00
+2A 00 00 00
+
+Fixes black screen after Konami logo and fixes stuttering FMV 
+and gameplay.
+
+Most of the PES titles probably need this to work properly. 
+Black screen fix was just taken from PES6 config.
+
+By mrjaredbeta!
