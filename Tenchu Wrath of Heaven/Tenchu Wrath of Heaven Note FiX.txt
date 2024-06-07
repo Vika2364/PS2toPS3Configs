@@ -1,0 +1,12 @@
+Tenchu Wrath of Heaven (SLUS-20397)
+
+3D 00 00 00 57 44 00 00 0A 00 00 00 04 00 00 00 
+0C 66 17 00 00 00 A2 A0 00 00 00 00 28 66 17 00 
+00 00 A2 A0 00 00 00 00 B0 C9 2D 00 70 FF BD 27 
+08 00 E0 03 B4 C9 2D 00 10 00 BF FF 00 00 00 00 
+07 00 00 00 08 00 00 00 00 00 00 00
+
+Fixes all freezing issues and all slowdown (besides some minor slowdown in Rikimaru intro) 
+by disabling character shadows.
+
+By mrjaredbeta!
