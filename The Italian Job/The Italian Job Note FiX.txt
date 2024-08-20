@@ -1,0 +1,9 @@
+The Italian Job (SLUS-20784)
+
+3D 00 00 00 57 44 00 00 0A 00 00 00 01 00 00 00 
+38 89 16 00 A8 85 09 0C 00 00 00 00
+
+Fixes the black screen after PS2 logo. This skips some VIF handler 
+flag being set to avoid some infinite loops in a couple functions
+
+By mrjaredbeta!
