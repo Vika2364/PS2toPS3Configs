@@ -1,0 +1,13 @@
+SLES_528.72 Constantine
+
+3D 00 00 00 57 44 00 00 0A 00 00 00 01 00 00 00
+EC 9E 33 00 0E 00 40 10 00 00 00 00
+
+SLUS_211.42 Constantine
+
+3D 00 00 00 57 44 00 00 0A 00 00 00 01 00 00 00
+84 A5 33 00 0E 00 40 10 00 00 00 00
+
+Skips check due to inaccurate math and allows player to climb dumpster in level 2.
+
+By Kozarovv & mrjaredbeta!
